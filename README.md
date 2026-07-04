@@ -17,3 +17,7 @@ External Libraries used include:
 -FontSource
 -motion
 -Recharts
+
+Agents used include:
+-Windurf Free Tier: Inline Code Suggestions.
+-Github Copilot: Code revisions and bug fixing.
